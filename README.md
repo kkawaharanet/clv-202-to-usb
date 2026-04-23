@@ -2,7 +2,7 @@
 
 CLV-202 to USB はニンテンドークラシックミニ スーパーファミコンのコントローラー(CLV-202)を USB ゲームパッドとして扱えるようにする。
 
-[CLV-202 to USB](https://kkawahara.net/software/clv-202-to-usb)
+[CLV-202 to USB](https://kkawahara.net/development/clv-202-to-usb)
 
 ## ハードウェアの配線図
 
